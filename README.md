@@ -1,7 +1,7 @@
 ![jayaasuthersen's Stats](https://github-readme-stats.vercel.app/api?username=jayaasuthersen&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 # 🚀 Hi, I am Jayaa Suthersen! 🌟
-## About Me
+# About Me
 
 **👋 Hello, world! I'm Jayaa Suthersen, a passionate Data Science, Machine Learning, Deep Learning, and AI enthusiast on a mission to unravel the mysteries hidden in data. 📊✨**
 
