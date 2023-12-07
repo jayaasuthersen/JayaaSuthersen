@@ -1,7 +1,7 @@
 ![jayaasuthersen's Stats](https://github-readme-stats.vercel.app/api?username=jayaasuthersen&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 # 🚀 Hi, I am Jayaa Suthersen! 🌟
-# About Me
+## About Me
 
 **👋 Hello, world! I'm Jayaa Suthersen, a passionate Data Science, Machine Learning, Deep Learning, and AI enthusiast on a mission to unravel the mysteries hidden in data. 📊✨**
 
@@ -11,24 +11,24 @@
 # Skills
 
 
-- #### Data Analysis
+- **Data Analysis**
 
 
 
-- #### Data Visualization
+- **Data Visualization**
 
 
 
 
 
 
-- #### Machine Learning
+- **Machine Learning**
 
-- #### Deep Learning 
+- **Deep Learning** 
 
-- #### Computer Vision 
+- **Computer Vision** 
 
-- #### Natural Language Processing 
+- **Natural Language Processing** 
 
 
 
@@ -48,3 +48,4 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayaasuthersen/)
+
